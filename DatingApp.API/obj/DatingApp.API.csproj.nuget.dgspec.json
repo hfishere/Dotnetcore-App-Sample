@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/hf/Documents/Projects/DatingApp/DatingApp.API/DatingApp.API.csproj": {}
+    "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "/home/hf/Documents/Projects/DatingApp/DatingApp.API/DatingApp.API.csproj": {
+    "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hf/Documents/Projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "/home/hf/Documents/Projects/DatingApp/DatingApp.API/DatingApp.API.csproj",
-        "packagesPath": "/home/hf/.nuget/packages/",
-        "outputPath": "/home/hf/Documents/Projects/DatingApp/DatingApp.API/obj/",
+        "projectPath": "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj",
+        "packagesPath": "C:\\Users\\HF\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/hf/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\HF\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
