@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj": {}
+    "c:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj": {
+    "c:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj",
+        "projectUniqueName": "c:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj",
         "projectName": "DatingApp.API",
-        "projectPath": "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj",
+        "projectPath": "c:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\DatingApp.API.csproj",
         "packagesPath": "C:\\Users\\HF\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\obj\\",
+        "outputPath": "c:\\Users\\HF\\Documents\\Projects\\Dotnetcore\\Dotnetcore-App-Sample\\DatingApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HF\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -36,6 +36,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.0, )"
@@ -47,6 +51,14 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[3.1.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
             }
           },
           "imports": [
