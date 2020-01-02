@@ -48,7 +48,6 @@
 /home/hf/Documents/Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
 /home/hf/Documents/Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json
@@ -100,3 +99,4 @@ C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bi
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
