@@ -48,6 +48,7 @@
 /home/hf/Documents/Projects/DatingApp/DatingApp.API/obj/Debug/netcoreapp3.1/DatingApp.API.csproj.CopyComplete
 /home/hf/Documents/Projects/DatingApp/DatingApp.API/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.exe
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.deps.json
@@ -55,6 +56,7 @@ C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bi
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.runtimeconfig.dev.json
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\DatingApp.API.pdb
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
@@ -65,10 +67,17 @@ C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bi
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -91,12 +100,3 @@ C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\ob
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.csproj.CopyComplete
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.dll
 C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\obj\Debug\netcoreapp3.1\DatingApp.API.pdb
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\HF\Documents\Projects\Dotnetcore\Dotnetcore-App-Sample\DatingApp.API\bin\Debug\netcoreapp3.1\appsettings.json
